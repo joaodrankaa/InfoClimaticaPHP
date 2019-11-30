@@ -43,8 +43,8 @@
 
         <!-- Tags Para rede social Twitter -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:description" content="" />
-        <meta name="twitter:title" content="" />
+        <meta name="twitter:description" content="site de informaçoes climaticas de brusque e região.Desenvolvido por João" />
+        <meta name="twitter:title" content="Projeto Clima" />
 
 
 
